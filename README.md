@@ -16,6 +16,11 @@ Cross-platform Electron + React desktop application for structured deep-work ses
 
 **Signals:** Electron · React · stateful desktop software · testing · CI/release engineering
 
+### [PaneInk](https://github.com/BTawaifi/PaneInk-Releases)
+Pressure-sensitive Windows drawing overlay for annotating any desktop app with a pen or mouse. Includes smooth vector ink, click-through overlay control, multi-monitor capture, clipboard integration, portable releases, and optional Windows auto-start.
+
+**Signals:** C# · WPF · Win32 interop · pressure-sensitive input · desktop UX · CI/release engineering
+
 ### [Hybrid Markdown Editor](https://github.com/BTawaifi/hybrid-markdown-editor)
 Reusable React markdown editor that renders inactive lines while turning the focused line into an inline editor. Designed as a controlled component with styling hooks and an extensions API.
 
@@ -49,4 +54,4 @@ The engineering work I find most interesting usually involves one or more of:
 
 I also publish focused utilities and experiments when they solve a concrete problem, including Windows tooling, scraping/automation helpers, desktop overlays, AI-assisted development workflows, and ML/image-moderation projects.
 
-For a technical review, start with **Audio DeSilencer**, **Time Master**, **Hybrid Markdown Editor**, and the **pof-tools upstream contribution**.
+For a technical review, start with **Audio DeSilencer**, **Time Master**, **PaneInk**, **Hybrid Markdown Editor**, and the **pof-tools upstream contribution**.
