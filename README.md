@@ -33,10 +33,10 @@ Full-stack event logging and monitoring application with filtering, live updates
 
 ## Open-source contribution
 
+I contribute to the Descent: Freespace open source project, focusing on modernizing legacy systems and expanding accessibility.
+
 ### [Baezon/pof-tools #179 — standalone 3D transform gizmo](https://github.com/Baezon/pof-tools/pull/179)
 Contribution to an existing 3D model-editing codebase. The work covers hierarchical transform propagation, exact undo/redo snapshots, coordinate-space correctness for turret/firepoint data, and allocation behavior during drag updates.
-
-Validation included the repository's test, check, formatting, and diff-validation tooling.
 
 ## How I work
 
