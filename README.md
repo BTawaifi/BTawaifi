@@ -38,7 +38,7 @@ A real-time fleet-command mod for FreeSpace Open, written in Lua: up to 12 AI or
 
 **Signals:** Lua · game AI · simulation tooling · automated testing · release engineering
 
-### [Hybrid Markdown Editor](https://github.com/BTawaifi/hybrid-markdown-editor)
+### [Hybrid Markdown Editor](https://github.com/BTawaifi/hybrid-markdown-editor) [![CI](https://github.com/BTawaifi/hybrid-markdown-editor/actions/workflows/ci.yml/badge.svg)](https://github.com/BTawaifi/hybrid-markdown-editor/actions/workflows/ci.yml)
 Reusable React markdown editor that renders inactive lines while turning the focused line into an inline editor. Designed as a controlled component with styling hooks and an extensions API.
 
 **Signals:** TypeScript · React library/API design · editor behavior · performance work
